@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello! I'm Tommaso Montanari.<br>🎓 I recently graduated from Politecnico di Milano with a Master's degree in Computer Science and Engineering.<br>💻 I have a strong background in open-source projects and a passion for collaborative development.<br>🛠️ I am a NixOS package maintainer and maintain the GNOME extensions "Add to Desktop" and "Super Key."<br>🌍 I enjoy working in international environments.<br>🌱 I'm always eager to learn and grow.
+👋 Hello! I'm Tommaso Montanari.<br>🎓 I recently graduated from Politecnico di Milano with a Master's degree in Computer Science and Engineering.<br>💻 I have a strong background in open-source projects and a passion for collaborative development.<br>🛠️ I am a NixOS package maintainer and maintain the GNOME extensions "Add to Desktop" and "Super Key."<br>🌍 I enjoy working in international environments.<br>🌱 I'm always eager to learn and grow.<br>📫 You can reach me at offensive.defensive294@slmail.me
 
 
 # 💻 Tech Stack:
